@@ -1,4 +1,4 @@
-# Proyecto 04 — Errores de infraestructura en Java
+# Proyecto 04: Errores de infraestructura en Java
 
 ## Propósito
 Demostrar que una aplicación que compila puede fallar por recursos externos o del entorno: archivos, red, puertos y memoria. Estos ejemplos **no controlan las excepciones**; esa mejora se estudiará en proyectos posteriores.
